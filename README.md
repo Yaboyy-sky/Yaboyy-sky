@@ -30,11 +30,11 @@ Bagi saya, teknologi bukan hanya soal *bagaimana sistem bekerja*, tetapi juga *b
 
 ## 👩🏻‍💻 Sedang Saya Kerjakan & Pelajari
 
-🌧️ Mengembangkan sistem **monitoring curah hujan berbasis IoT** dengan konsep **green energy**
-📡 Memperdalam **sensor integration**, **embedded systems**, dan **data validation**
-🌐 Membangun dan mengupgrade **website portofolio** pribadi
-🎨 Mengasah penyuntingan visual (foto & video) sebagai proyek freelance
-📓 Mempelajari **AutoCAD** dan **SketchUp**
+- 🌧️ Mengembangkan sistem **monitoring curah hujan berbasis IoT** dengan konsep **green energy**
+- 📡 Memperdalam **sensor integration**, **embedded systems**, dan **data validation**
+- 🌐 Membangun dan mengupgrade **website portofolio** pribadi
+- 🎨 Mengasah penyuntingan visual (foto & video) sebagai proyek freelance
+- 📓 Mempelajari **AutoCAD** dan **SketchUp**
 
 ---
 
