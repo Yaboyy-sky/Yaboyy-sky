@@ -84,15 +84,15 @@ class MuhammadAhya:
       <sub><b>MATLAB</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="assets/icons/proteus.png" width="48" height="48" alt="Proteus" /><br/>
+      <img src="proteus.png" width="48" height="48" alt="Proteus"> /><br/>
       <sub><b>Proteus</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="assets/icons/autocad.png" width="48" height="48" alt="AutoCAD" /><br/>
+      <img src="autocad.jpg" width="48" height="48" alt="AutoCAD" /><br/>
       <sub><b>AutoCAD</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="assets/icons/sketchup.png" width="48" height="48" alt="SketchUp" /><br/>
+      <img src="sketchup.png" width="48" height="48" alt="SketchUp" /><br/>
       <sub><b>SketchUp</b></sub>
     </td>
   </tr>
@@ -111,19 +111,15 @@ class MuhammadAhya:
       <sub><b>Premiere</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="assets/icons/capcut.png" width="48" height="48" alt="CapCut" /><br/>
+      <img src="capcut.png" width="48" height="48" alt="CapCut" /><br/>
       <sub><b>CapCut</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="assets/icons/canva.png" width="48" height="48" alt="Canva" /><br/>
+      <img src="canva.jpg" width="48" height="48" alt="Canva" /><br/>
       <sub><b>Canva</b></sub>
     </td>
   </tr>
 </table>
-
-**Electrical & Instrumentation**
-
-`Electrical Wiring` · `Instalasi Listrik` · `Sensor Calibration` · `Voltage Measurement` · `Preventive Maintenance` · `Hardware Troubleshooting` · `Equipment Debugging` · `Data Validation` · `K3`
 
 ---
 
