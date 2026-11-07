@@ -23,16 +23,19 @@
 Lulusan **S-1 Fisika (Instrumentasi)** Universitas Lambung Mangkurat yang suka menjembatani **teori dan praktik** dari merancang sensor dan sistem IoT, menangani instalasi kelistrikan di lapangan, sampai mengolah visual lewat foto dan video.
 
 Bagi saya, teknologi bukan hanya soal *bagaimana sistem bekerja*, tetapi juga *bagaimana ia bisa terus disempurnakan*.
-
+<div align="center">
+  <img src="Profile.gif" width="320" alt="Animated portrait" />
+</div>
+  <br/><sub>Animated portrait by carly berry (via Behance)</sub>
 ---
 
 ## 👩🏻‍💻 Sedang Saya Kerjakan & Pelajari
 
-- 🌧️ Mengembangkan sistem **monitoring curah hujan berbasis IoT** dengan konsep **green energy**
-- 📡 Memperdalam **sensor integration**, **embedded systems**, dan **data validation**
-- 🌐 Membangun dan mengupgrade **website portofolio** pribadi
-- 🎨 Mengasah penyuntingan visual (foto & video) sebagai proyek freelance
-- 📓 Mempelajari **AutoCAD** dan **SketchUp**
+🌧️ Mengembangkan sistem **monitoring curah hujan berbasis IoT** dengan konsep **green energy**
+📡 Memperdalam **sensor integration**, **embedded systems**, dan **data validation**
+🌐 Membangun dan mengupgrade **website portofolio** pribadi
+🎨 Mengasah penyuntingan visual (foto & video) sebagai proyek freelance
+📓 Mempelajari **AutoCAD** dan **SketchUp**
 
 ---
 
@@ -134,32 +137,7 @@ flowchart LR
 
 ---
 
-## 💼 Perjalanan Profesional
-
-| Periode | Peran | Tempat |
-|---|---|---|
-| Agu 2026 – Okt 2026 | **Electrical Technician** (Pelayanan & Penyambungan) | PT Berkat Usaha Jaya |
-| Okt 2025 – Jan 2026 | **Engineering Intern**: Environmental & Mine Water Management | PT Adaro Indonesia |
-| Nov 2025 – Sekarang | **Photo & Video Editor** | Banjarbaru |
-| Jan 2025 – Agu 2025 | **Wedding Organizer Team** | sitiliawedding |
-
-**Sorotan:** 🔌 7–9 SPK per hari sebagai teknisi · 💧 Monitoring 4–6 settling pond per hari · 🎞️ 10+ proyek foto & video
-
----
-
-## 🏆 Pencapaian & Kepemimpinan
-
-- 🥈 **2nd Best Graduate**, Prodi Fisika, Wisuda ke-132 Universitas Lambung Mangkurat
-- 🎤 **Best Presenter**, SENFIT VII (bidang Instrumentasi & Fisika Komputasi)
-- 👥 **Ketua Himpunan Mahasiswa Fisika**: memimpin 35+ anggota dan 9 pengurus inti
-- 🌴 **Abdi Daya Ormawa**: tim lolos pendanaan nasional dari **2.289 subproposal**, satu-satunya tim ULM yang tampil di Abdidaya PPK Ormawa 2024 Bali
-- 🏛️ **DPM FMIPA (Komisi 2: Anggaran & Pengawasan)**: mengawasi anggaran 12 Ormawa
-
----
-
-## 🤝 Mari Berkolaborasi
-
-Terbuka untuk **peluang kerja** di bidang instrumentasi, kelistrikan, dan IoT, serta **proyek freelance** penyuntingan foto dan video.
+## 🤝 Complete Information About Me
 
 📧 **m.ahya.amt123@gmail.com** · 💼 [LinkedIn](https://linkedin.com/in/muhammad-ahya-ba21b2430) · 📸 [Instagram](https://instagram.com/mhmmdahya__)
 
