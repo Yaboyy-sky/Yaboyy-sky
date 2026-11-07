@@ -24,7 +24,7 @@ Lulusan **S-1 Fisika (Instrumentasi)** Universitas Lambung Mangkurat yang suka m
 
 Bagi saya, teknologi bukan hanya soal *bagaimana sistem bekerja*, tetapi juga *bagaimana ia bisa terus disempurnakan*.
 <div align="center">
-  <img src="Profile.gif" width="320" alt="Animated portrait" />
+  <img src="Profile.gif" width="600" alt="Animated portrait" />
 </div>
   <br/><sub>Animated portrait by carly berry (via Behance)</sub>
 
