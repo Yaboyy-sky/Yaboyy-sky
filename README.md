@@ -138,7 +138,7 @@ flowchart LR
 
 ## 🤝 Complete Information About Me
 
-📧 **m.ahya.amt123@gmail.com** · 💼 [LinkedIn](https://linkedin.com/in/muhammad-ahya-ba21b2430) · 📸 [Instagram](https://instagram.com/mhmmdahya__)
+📧 [**m.ahya.amt123@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=m.ahya.amt123@gmail.com&su=Halo%20Ahya) · 💼 [LinkedIn](https://linkedin.com/in/muhammad-ahya-ba21b2430) · 📸 [Instagram](https://instagram.com/mhmmdahya__)
 
 <div align="center">
 
