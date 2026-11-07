@@ -20,23 +20,9 @@
 
 ## 👋 Halo, saya Ahya!
 
-Lulusan **S-1 Fisika (Instrumentasi)** Universitas Lambung Mangkurat yang suka menjembatani **teori dan praktik**: dari merancang sensor dan sistem IoT, menangani instalasi kelistrikan di lapangan, sampai mengolah visual lewat foto dan video.
+Lulusan **S-1 Fisika (Instrumentasi)** Universitas Lambung Mangkurat yang suka menjembatani **teori dan praktik** dari merancang sensor dan sistem IoT, menangani instalasi kelistrikan di lapangan, sampai mengolah visual lewat foto dan video.
 
 Bagi saya, teknologi bukan hanya soal *bagaimana sistem bekerja*, tetapi juga *bagaimana ia bisa terus disempurnakan*.
-
-```python
-class MuhammadAhya:
-    def __init__(self):
-        self.role      = ["Instrumentation Engineer", "Electrical Technician", "Photo & Video Editor"]
-        self.education = "B.Sc. Physics (Instrumentation), ULM, GPA 3.41/4.00"
-        self.based_in  = "Banjarbaru, Kalimantan Selatan 🇮🇩"
-        self.focus     = ["IoT Monitoring", "Sensor Integration & Calibration", "Embedded Systems"]
-        self.languages = {"Indonesia": "Fluent", "English": "Intermediate"}
-        self.status    = "Open to work & freelance projects 🚀"
-
-    def motto(self):
-        return "Dari Gagasan Menjadi Inovasi"
-```
 
 ---
 
@@ -154,7 +140,7 @@ flowchart LR
 |---|---|---|
 | Agu 2026 – Okt 2026 | **Electrical Technician** (Pelayanan & Penyambungan) | PT Berkat Usaha Jaya |
 | Okt 2025 – Jan 2026 | **Engineering Intern**: Environmental & Mine Water Management | PT Adaro Indonesia |
-| Nov 2025 – Sekarang | **Freelance Photo & Video Editor** | Banjarbaru |
+| Nov 2025 – Sekarang | **Photo & Video Editor** | Banjarbaru |
 | Jan 2025 – Agu 2025 | **Wedding Organizer Team** | sitiliawedding |
 
 **Sorotan:** 🔌 7–9 SPK per hari sebagai teknisi · 💧 Monitoring 4–6 settling pond per hari · 🎞️ 10+ proyek foto & video
