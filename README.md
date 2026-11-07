@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Kunjungi-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaboyy-sky.github.io/muhammadahya.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahya-ba21b2430)
-[![Email](https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ahya.amt123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=m.ahya.amt123@gmail.com&su=Halo%20Ahya)
 [![Instagram](https://img.shields.io/badge/Instagram-@mhmmdahya__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmmdahya__)
 
 </div>
