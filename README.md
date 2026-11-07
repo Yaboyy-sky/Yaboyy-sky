@@ -84,7 +84,7 @@ class MuhammadAhya:
       <sub><b>MATLAB</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="Proteus.png" width="48" height="48" alt="Proteus"> />
+      <img src="Proteus.png" width="48" height="48" alt="Proteus" />
       <sub><b>Proteus</b></sub>
     </td>
     <td align="center" width="110">
