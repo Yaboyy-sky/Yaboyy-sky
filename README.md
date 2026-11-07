@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,50:10b981,100:7c3aed&text=Muhammad%20Ahya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Instrumentation%20%E2%80%A2%20Electrical%20%E2%80%A2%20IoT%20%E2%80%A2%20Visual%20Creator&descSize=17&descAlignY=60&animation=fadeIn" alt="Muhammad Ahya banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,50:10b981,100:7c3aed&text=Muhammad%20Ahya&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Electrical%20Technician%20%E2%80%A2%20Instrumentation%20%E2%80%A2%20Creative%20Skills%20%E2%80%A2%20Data%20Analyst&descSize=17&descAlignY=60&animation=fadeIn" alt="Muhammad Ahya banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=640&lines=Dari+Gagasan+Menjadi+Inovasi+%F0%9F%92%A1;S.Si.+Fisika+%E2%80%93+Instrumentasi+%7C+ULM;Merancang+sistem+monitoring+IoT+%E2%9A%A1;Teknisi+Kelistrikan+%26+Instrumentasi+%F0%9F%94%8C;Juga+menyunting+foto+%26+video+%F0%9F%8E%AC" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Kunjungi-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://GANTI-DENGAN-LINK-PORTOFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kunjungi-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yaboyy-sky.github.io/muhammadahya.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ahya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ahya-ba21b2430)
 [![Email](https://img.shields.io/badge/Email-Hubungi%20Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ahya.amt123@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@mhmmdahya__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmmdahya__)
@@ -40,41 +40,86 @@ class MuhammadAhya:
 
 ---
 
-## 🔭 Sedang Saya Kerjakan & Pelajari
+## 👩🏻‍💻 Sedang Saya Kerjakan & Pelajari
 
-- 🌧️ Mengembangkan sistem **monitoring curah hujan berbasis IoT** dan energi hijau
+- 🌧️ Mengembangkan sistem **monitoring curah hujan berbasis IoT** dengan konsep **green energy**
 - 📡 Memperdalam **sensor integration**, **embedded systems**, dan **data validation**
-- 🌐 Membangun dan memoles **website portofolio** pribadi
+- 🌐 Membangun dan mengupgrade **website portofolio** pribadi
 - 🎨 Mengasah penyuntingan visual (foto & video) sebagai proyek freelance
+- 📓 Mempelajari **AutoCAD** dan **SketchUp**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-**Programming, Embedded & IoT**
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,py,js,matlab&perline=10" alt="programming" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Apps Script" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Engineering, Data & Reporting**
+**Tools & Platforms**
 
-<p>
-  <img src="https://img.shields.io/badge/Proteus-Simulation-0F766E?style=for-the-badge" alt="Proteus" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino IDE" /><br/>
+      <sub><b>Arduino IDE</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" /><br/>
+      <sub><b>MATLAB</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="assets/icons/proteus.png" width="48" height="48" alt="Proteus" /><br/>
+      <sub><b>Proteus</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="assets/icons/autocad.png" width="48" height="48" alt="AutoCAD" /><br/>
+      <sub><b>AutoCAD</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="assets/icons/sketchup.png" width="48" height="48" alt="SketchUp" /><br/>
+      <sub><b>SketchUp</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Design & Multimedia**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ps,pr&perline=10" alt="adobe" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" /><br/>
+      <sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere" /><br/>
+      <sub><b>Premiere</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="assets/icons/capcut.png" width="48" height="48" alt="CapCut" /><br/>
+      <sub><b>CapCut</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="assets/icons/canva.png" width="48" height="48" alt="Canva" /><br/>
+      <sub><b>Canva</b></sub>
+    </td>
+  </tr>
+</table>
 
 **Electrical & Instrumentation**
 
@@ -127,17 +172,6 @@ flowchart LR
 - 👥 **Ketua Himpunan Mahasiswa Fisika**: memimpin 35+ anggota dan 9 pengurus inti
 - 🌴 **Abdi Daya Ormawa**: tim lolos pendanaan nasional dari **2.289 subproposal**, satu-satunya tim ULM yang tampil di Abdidaya PPK Ormawa 2024 Bali
 - 🏛️ **DPM FMIPA (Komisi 2: Anggaran & Pengawasan)**: mengawasi anggaran 12 Ormawa
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yaboyy-sky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=7c3aed" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaboyy-sky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981" alt="Top languages" />
-
-</div>
 
 ---
 
