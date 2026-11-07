@@ -84,15 +84,15 @@ class MuhammadAhya:
       <sub><b>MATLAB</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="proteus.png" width="48" height="48" alt="Proteus"> /><br/>
+      <img src="proteus.png" width="48" height="48" alt="Proteus"> />
       <sub><b>Proteus</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="autocad.jpg" width="48" height="48" alt="AutoCAD" /><br/>
+      <img src="autocad.jpg" width="48" height="48" alt="AutoCAD" />
       <sub><b>AutoCAD</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="sketchup.png" width="48" height="48" alt="SketchUp" /><br/>
+      <img src="sketchup.png" width="48" height="48" alt="SketchUp" />
       <sub><b>SketchUp</b></sub>
     </td>
   </tr>
@@ -111,11 +111,11 @@ class MuhammadAhya:
       <sub><b>Premiere</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="capcut.png" width="48" height="48" alt="CapCut" /><br/>
+      <img src="capcut.png" width="48" height="48" alt="CapCut" />
       <sub><b>CapCut</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="canva.jpg" width="48" height="48" alt="Canva" /><br/>
+      <img src="canva.jpg" width="48" height="48" alt="Canva" />
       <sub><b>Canva</b></sub>
     </td>
   </tr>
