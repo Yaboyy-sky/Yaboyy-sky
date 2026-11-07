@@ -27,7 +27,6 @@ Bagi saya, teknologi bukan hanya soal *bagaimana sistem bekerja*, tetapi juga *b
   <img src="Profile.gif" width="320" alt="Animated portrait" />
 </div>
   <br/><sub>Animated portrait by carly berry (via Behance)</sub>
----
 
 ## 👩🏻‍💻 Sedang Saya Kerjakan & Pelajari
 
